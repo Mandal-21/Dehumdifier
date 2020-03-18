@@ -1,0 +1,34 @@
+Calculations : 
+
+Dehumdifier Volume :
+	Length : 15.0cm
+	Width : 100.0cm 
+	Height : 6.5cm 
+	Volume of Dehumidifier is : 20 litre 
+
+Sump tank pipe calculations : 
+
+	Clearance of 3cm is required for pipe from top
+	Height of Sump tank must be 20 cm 
+	Actual usable height is 17 cm 
+	Total number of pipes in Sump tank is 45 
+	Volume of pipe is 11 litre 
+
+Calculations of pipes in Dehumdifier are :
+
+	Diameter : 6.5cm 
+	Length : 13.0cm
+	Width : 6.5cm 
+	Height : 15.0cm 
+	No of pipes available in one compartment : 21.807692307692307 
+	No of pipes in side wall are 11
+	No of pipes in base are 5
+	Total four compartment(Dehumdifier*2 and Regenrator*2)
+	Therefore total no of pipes 108
+
+Heater Tank calculations :
+
+	Length : 15.0cm
+	Width : 15.0cm
+	Height : 6.5cm
+	Volume of Heater Tank is 1 litre
